@@ -19,7 +19,7 @@
 
 ### My ETL Architecture
 
-![image](https://github.com/jayavarshini6/OpenWeather_data_pipeline/assets/86217885/5017cc8f-042f-4cbf-9386-716560d462af)
+<img align="center" src="https://github.com/jayavarshini6/OpenWeather_data_pipeline/blob/master/Jay.gif"  width="420" height="330">
 
 
 #### My take on the tools used in this architecture
