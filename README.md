@@ -7,6 +7,7 @@
 
 ### What value does this project give to an organisation, by taking weather data:
 * Insurance and Risk Management:
+  <img align="center" src="https://github.com/jayavarshini6/OpenWeather_data_pipeline/blob/master/header.gif">
 #### Insurance companies leverage weather data for risk assessment and underwriting. Weather-related risks, such as hurricanes, floods, and wildfires, can be better evaluated, allowing insurers to determine appropriate premiums and coverage options.
 
 * Transportation and Logistics: 
