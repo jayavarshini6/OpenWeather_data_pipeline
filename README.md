@@ -6,11 +6,12 @@
 ## Objective of this project
 
 ### What value does this project give to an organisation, by taking weather data:
-* Insurance and Risk Management:
+### Insurance and Risk Management:
   <img align="center" src="https://github.com/jayavarshini6/OpenWeather_data_pipeline/blob/master/header.gif">
 #### Insurance companies leverage weather data for risk assessment and underwriting. Weather-related risks, such as hurricanes, floods, and wildfires, can be better evaluated, allowing insurers to determine appropriate premiums and coverage options.
 
-* Transportation and Logistics: 
+### Transportation and Logistics:
+  <img align="center" src="https://github.com/jayavarshini6/OpenWeather_data_pipeline/blob/master/Transportation-hero2.gif">
 #### Weather data plays a vital role in transportation and logistics industries. It helps optimize routes and schedules for ships, aircraft, trucks, and trains, ensuring timely and safe deliveries while considering weather-related disruptions.
 
 ### That being said as a Data Engineer I have to address why ETL process play a cruical role?
