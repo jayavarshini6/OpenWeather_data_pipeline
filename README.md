@@ -19,7 +19,7 @@
 ### That being said as a Data Engineer I have to address why ETL process play a cruical role?
 
 #### It is essential to collect data and integrate it in a platform so that data can be used for next stages like data visualization, prediction and analysis.
-#### Kinda like meal prep so to speak, we cut the ingredients, check our species and masalas so that we can get an delicious and visually colourful meal.
+#### Kinda like meal prep so to speak, we cut the ingredients, check our recepie and what masala to use, so that we can get an delicious and visually colourful meal.
 
 ### My ETL Architecture
 
