@@ -1,4 +1,4 @@
-# Twitter_data_pipeline
+# Open Weather Pipeline
 
 ### This project is my try on integrating AWS, Airflow and python to perform extract, transform and load Openweather climate data.
 ### The local I chose for this project is Chennai, India. The place that is close to my heart ;)
